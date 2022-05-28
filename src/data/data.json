@@ -1,0 +1,93 @@
+{
+  "Header": {
+    "title": "Marta Beauty Hair",
+    "paragraph": "Beleza e estilo"
+  },
+  "About": {
+    "paragraph": "A melhor equipe de beleza da cidade, com mais de 20 anos de experiência em beleza e estilo.",
+    "Why": [
+      "Usamos produtos de qualidade",
+      "Melhor preço da cidade",
+      "Agendamento por whatsapp"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Lindos Cabelos",
+      "largeImage": "img/portfolio/2.jpeg",
+      "smallImage": "img/portfolio/2.jpeg"
+    },
+    {
+      "title": "Lindos Cabelos",
+      "largeImage": "img/portfolio/8.jpeg",
+      "smallImage": "img/portfolio/8.jpeg"
+    },
+    {
+      "title": "Lindos Cabelos",
+      "largeImage": "img/portfolio/6.jpeg",
+      "smallImage": "img/portfolio/6.jpeg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Progressiva"
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Argiloterapia"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Cauterização"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Reconstrução"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Hidratação"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Blindagem dos fios"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Tintura"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Luzes"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Morena iluminada"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.png",
+      "text": "\"Entrei fiona saí MARAVILINDA!!\"",
+      "name": "Cliente"
+    },
+    {
+      "img": "img/testimonials/01.png",
+      "text": "\"Adoro o bate-papo enquanto fico linda!\"",
+      "name": "Cliente"
+    },
+    {
+      "img": "img/testimonials/01.png",
+      "text": "\"Melhor lugar para se transformar\"",
+      "name": "Cliente"
+    }
+  ],
+  "Contact": {
+    "address": "Rua da Paz 519, Piraquara / PR ",
+    "phone": "41 997256794",
+    "email": "martabeautyhair@gmail.com",
+    "facebook": "https://www.facebook.com/Marta-Beaty-Hair-113083188079304",
+    "instagram": "https://www.instagram.com/martabeautyhair/"
+  }
+}
